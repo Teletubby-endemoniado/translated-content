@@ -1,5 +1,5 @@
 ---
-title: Primeros pasos en MDN
+title: Primeros pasos en MDNok
 slug: MDN/Community/Contributing/Getting_started
 original_slug: MDN/Contribute/Getting_started
 ---
